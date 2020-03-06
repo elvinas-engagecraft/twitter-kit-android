@@ -19,7 +19,7 @@ package com.twitter.sdk.android.tweetui;
 
 import android.content.res.Resources;
 
-import junit.framework.Assert;
+import org.junit.Assert;
 
 /**
  * Common shared utilities for testing.

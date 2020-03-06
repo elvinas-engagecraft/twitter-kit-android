@@ -95,6 +95,7 @@ dependencies {
     implementation dependency.picasso
     implementation dependency.supportCoreV4
     implementation dependency.supportCompatV4
+    implementation dependency.annotations
     implementation dependency.recyclerview
 
     androidTestCompile dependency.retrofitMock
